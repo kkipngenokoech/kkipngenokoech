@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**kkipngenokoech/kkipngenokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+
+<!--**kkipngenokoech/kkipngenokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on #100Daysofcode - learning Django(first 30 days),React(next 30 days),Ruby on Rails(remaining 30 days)
 - 🌱 I’m currently learning software engineering(Holberton- ALX-software engineering)
