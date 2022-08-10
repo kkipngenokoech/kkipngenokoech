@@ -2,7 +2,7 @@
 
 <!--
 **kkipngenokoech/kkipngenokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on #100Daysofcode - learning Django(first 30 days),React(next 30 days),Ruby on Rails(remaining 30 days)
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kkipngenokoech/),[twitter](https://twitter.com/Kkipngeno_koech)
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: I am an extroverted introvert(stoic kinda)
--->
+
