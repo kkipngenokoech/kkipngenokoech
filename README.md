@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on django, react and ruby on rails projects
 - 🤔 I’m looking for help with Django framework
 - 💬 Ask me about Data science, it justs never ceases to amaze me
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kkipngenokoech/),[twitter](https://twitter.com/Kkipngeno_koech)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kkipngenokoech/),[twitter](https://twitter.com/Kkipngeno_koech)[portfolio](https://kipngenokoech.netlify.app/)
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: I am an extroverted introvert(stoic kinda)
 
