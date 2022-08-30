@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
 <a href="https://web.facebook.com/kipngeno.koech.1422/">
   <img align="left" alt="kipngeno koech's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<br/>
 <br/>
 
 - 🔭 I’m currently working on #100Daysofcode - learning Django(first 30 days),React(next 30 days),Ruby on Rails(remaining 30 days)
