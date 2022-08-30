@@ -15,3 +15,14 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I am an extroverted introvert(stoic kinda)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kkipngenokoech&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkipngenokoech&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
+
+<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=Tr-reny&color=green)
+### Languages and Tools -->
+
+<!-- <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/django" alt="JetBrains Tools" height="40px" />
+<br /> -->
