@@ -14,3 +14,4 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: I am an extroverted introvert(stoic kinda)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kkipngenokoech&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkipngenokoech&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
