@@ -32,9 +32,11 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kkipngenokoech/)|[twitter](https://twitter.com/Kkipngeno_koech)|[portfolio](https://kipngenokoech.netlify.app/)
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: I am an extroverted introvert(stoic kinda)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+- 
+<!-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=05gb65508cp615ob6lqx4bix7)
+<img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=05gb65508cp615ob6lqx4bix7" /> -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kkipngenokoech&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkipngenokoech&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
 
