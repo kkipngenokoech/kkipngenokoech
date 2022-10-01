@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
 <img src = './man_has_to_code.jpg' width= "500" height = "250"/>
-  
+</div>
   
   ---
 
@@ -36,7 +36,10 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kkipngenokoech/)|[twitter](https://twitter.com/Kkipngeno_koech)|[portfolio](https://kipngenokoech.netlify.app/)
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: I am an extroverted introvert(stoic kinda)
-- 
+
+
+---
+
 <!-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=05gb65508cp615ob6lqx4bix7)
