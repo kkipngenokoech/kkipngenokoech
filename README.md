@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src = './man_has_to_code.jpg' width= "500" height = "250">
+<div id="header" align="center">
+<img src = './man_has_to_code.jpg' width= "500" height = "250"/>
 
 <!--**kkipngenokoech/kkipngenokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
