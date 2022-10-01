@@ -1,5 +1,5 @@
 ### Hi there 👋
-![man has to code](./man_has_to_code.jpg = 250*500)
+![man has to code](./man_has_to_code.jpg = 250x500)
 
 <!--**kkipngenokoech/kkipngenokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
