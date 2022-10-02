@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  it's kip here👋
 <div id="header" align="center">
 <img src = './man_has_to_code.jpg' width= "500" height = "250"/>
 </div>
