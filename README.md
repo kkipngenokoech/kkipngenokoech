@@ -93,6 +93,7 @@ Here are some ideas to get you started:-->
 
   ---
 
+ [![wakatime](https://wakatime.com/badge/user/556a631a-a3ff-42ad-b38c-c4778b0d6225.svg)](https://wakatime.com/@556a631a-a3ff-42ad-b38c-c4778b0d6225)
 
 <b>My GitHub Stats</b>
 
