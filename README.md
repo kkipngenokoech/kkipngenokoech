@@ -45,6 +45,8 @@ Here are some ideas to get you started:-->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=05gb65508cp615ob6lqx4bix7)
 <img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=05gb65508cp615ob6lqx4bix7" /> -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkipngenokoech" alt="kkipngenokoech" /></a> </p>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kkipngenokoech&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkipngenokoech&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
 
 ### Skills
