@@ -40,10 +40,8 @@ Here are some ideas to get you started:-->
 
 ---
 
-<!-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=05gb65508cp615ob6lqx4bix7)
-<img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=05gb65508cp615ob6lqx4bix7" /> -->
+### Spotify Playing 🎧
+[<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="kip's Spotify Playing" width="350" />](https://open.spotify.com/user/05gb65508cp615ob6lqx4bix7)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkipngenokoech&theme=onedark" alt="kkipngenokoech" /></a> </p>
 
