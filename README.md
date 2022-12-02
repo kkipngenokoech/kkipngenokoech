@@ -41,7 +41,7 @@ Here are some ideas to get you started:-->
 ---
 
 ### Spotify Playing 🎧
-[<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="kip's Spotify Playing" width="350" />](https://open.spotify.com/user/05gb65508cp615ob6lqx4bix7)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=05gb65508cp615ob6lqx4bix7&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=05gb65508cp615ob6lqx4bix7&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)]]
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkipngenokoech&theme=onedark" alt="kkipngenokoech" /></a> </p>
 
