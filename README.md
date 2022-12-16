@@ -1,4 +1,4 @@
-### Hi there,  it's kip here and welcome to my mutliverse 👋
+### Hi there,  it's kip here, welcome to my mutliverse 👋
 <div id="header" align="center">
 <img src = './man_has_to_code.jpg' width= "500" height = "250"/>
 </div>
