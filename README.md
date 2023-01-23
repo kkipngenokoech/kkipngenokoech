@@ -95,14 +95,19 @@ Here are some ideas to get you started:-->
 
  [![wakatime](https://wakatime.com/badge/user/556a631a-a3ff-42ad-b38c-c4778b0d6225.svg)](https://wakatime.com/@556a631a-a3ff-42ad-b38c-c4778b0d6225)
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kkipngenokoech"><img src="https://github-readme-stats.vercel.app/api?username=kkipngenokoech&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="kkipngenokoech's GitHub stats" /></a>
+<br>
+<div align="center">
+  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=kkipngenokoech&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=kkipngenokoech&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkipngenokoech&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
+</div> <br>
 
-<a href="http://www.github.com/kkipngenokoech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kkipngenokoech&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![kkipngenokoech's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kkipngenokoech&custom_title=kkipngenokoech's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
-<!-- <a href="http://www.github.com/kkipngenokoech"><img src="https://activity-graph.herokuapp.com/graph?username=kkipngenokoech&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-<a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kkipngenokoech&theme=react-dark&hide_border=true" /></a>
+
+
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkipngenokoech&theme=github_dark) 
 
