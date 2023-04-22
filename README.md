@@ -2,8 +2,13 @@
 <div id="header" align="center">
 <img src = './man_has_to_code.jpg' width= "500" height = "250"/>
 </div>
-  
+  <p align="left"> <a href="https://twitter.com/kkipngeno_koech" target="blank"><img src="https://img.shields.io/twitter/follow/kkipngeno_koech?logo=twitter&style=for-the-badge" alt="kkipngeno_koech" /></a> </p>
+
   ---
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<a href="https://medium.com/@kkipngenokoech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kkipngenokoech" height="30" width="40" /></a>
 
 <!--**kkipngenokoech/kkipngenokoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -95,17 +100,20 @@ Here are some ideas to get you started:-->
 
  [![wakatime](https://wakatime.com/badge/user/556a631a-a3ff-42ad-b38c-c4778b0d6225.svg)](https://wakatime.com/@556a631a-a3ff-42ad-b38c-c4778b0d6225)
 
-
 <br>
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=kkipngenokoech&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=kkipngenokoech&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br> -->
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkipngenokoech" alt="kkipngenokoech" /></a> </p>
+  
   <img src="https://streak-stats.demolab.com?user=kkipngenokoech&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=kkipngenokoech&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
 </div> <br>
+<!-- ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kkipngenokoech)
+<br> -->
 
 ![kkipngenokoech's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kkipngenokoech&custom_title=kkipngenokoech's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
-
 
 
 
