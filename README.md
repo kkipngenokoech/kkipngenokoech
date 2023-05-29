@@ -87,14 +87,29 @@ Here are some ideas to get you started:-->
   ---
 
 
- ### Socials
-                  
-                  
- <p align="left">
-                          
-                         
-<a href="https://www.linkedin.com/in/kkipngenokoech/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ ### Bonjour
+ <br/>
+ <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkipngenokoech&label=Views&color=blue&style=plastic" alt="kkipngenokoech" /> </p>
+
+<a href="https://www.linkedin.com/in/kkipngenokoech/">
+  <img align="left" alt="kipngeno koech's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/kkipngenokoech">
+  <img align="left" alt="kipngeno koech's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/The_broken_vessel">
+  <img align="left" alt="kipngeno koech's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/kkipngenokoech/">
+  <img align="left" alt="kipngeno koech's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://web.facebook.com/kipngeno.koech.1422/">
+  <img align="left" alt="kipngeno koech's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <a href="https://www.twitter.com/Kkipngeno_koech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<br/>
 
   ---
 
