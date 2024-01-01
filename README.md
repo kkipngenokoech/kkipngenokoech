@@ -44,6 +44,12 @@ Here are some ideas to get you started:-->
 
 
 ---
+| ![WakaTime Activity](https://wakatime.com/share/@kkipngenokoech/95d711f4-79f6-446c-a6fb-aaadb46b7f2d.svg) | ![WakaTime OS](https://wakatime.com/share/@kkipngenokoech/8eaa7352-91cf-49d8-bee3-19bc2d94806f.svg) |
+|:---:|:---:|
+| *WakaTime Activity* | *WakaTime Top OS* |
+
+
+---
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=05gb65508cp615ob6lqx4bix7&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
