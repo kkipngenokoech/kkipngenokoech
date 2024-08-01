@@ -2,7 +2,7 @@
 <div id="header" align="center">
 <img src = './man_has_to_code.jpg' width= "500" height = "250"/>
 </div>
-  <p align="left"> <a href="https://x.com/kkipngenokoech" target="blank"><img src="https://img.shields.io/twitter/follow/kkipngeno_koech?logo=twitter&style=for-the-badge" alt="kkipngeno_koech" /></a> </p>
+  <p align="left"> <a href="https://x.com/kkipngenokoech" target="blank"><img src="https://img.shields.io/twitter/follow/kkipngenokoech?logo=twitter&style=for-the-badge" alt="kkipngenokoech" /></a> </p>
 
   ---
 ### Blogs posts
