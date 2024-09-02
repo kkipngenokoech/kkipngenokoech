@@ -33,16 +33,6 @@ Here are some ideas to get you started:-->
 <br/>
 <br/>
 
-- 🔭 I’m currently working on #reverseengineering
-- 🌱 I’m currently learning machine learning and Artificial intelligence
-- 👯 I’m looking to collaborate on django, react and ruby on rails projects
-- 🤔 I’m looking for help with #reverseengineering
-- 💬 Ask me about Artificial Intelligence, it justs never ceases to amaze me
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kkipngenokoech/)|[twitter](https://twitter.com/Kkipngeno_koech)|[portfolio](https://kipngenokoech.netlify.app/)
-- 😄 Pronouns: He, His, Him
-- ⚡ Fun fact: I am an extroverted introvert(stoic kinda)
-
-
 ---
 | ![WakaTime Activity](https://wakatime.com/share/@kkipngenokoech/95d711f4-79f6-446c-a6fb-aaadb46b7f2d.svg) | ![WakaTime OS](https://wakatime.com/share/@kkipngenokoech/8eaa7352-91cf-49d8-bee3-19bc2d94806f.svg) |
 |:---:|:---:|
